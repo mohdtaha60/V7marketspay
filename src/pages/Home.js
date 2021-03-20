@@ -6,6 +6,7 @@ function Home() {
 
   const options = {
     key: "rzp_live_DPg0UrkmwARL7k",
+    // key: "rzp_test_UaDS2uihjYJINF",
     amount: pay * 100,
     name: "V7 Markets",
     description: "Pay",
@@ -21,7 +22,7 @@ function Home() {
     //   email: "",
     // },
     notes: {
-      address: "",
+      address: "V7markets",
     },
     theme: {
       color: "blue",
