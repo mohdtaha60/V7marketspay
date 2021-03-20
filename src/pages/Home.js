@@ -5,7 +5,7 @@ function Home() {
   const [pay, setPay] = useState();
 
   const options = {
-    key: "rzp_live_VgL12lETuKHupO",
+    key: "rzp_live_DPg0UrkmwARL7k",
     amount: pay * 100,
     name: "V7 Markets",
     description: "Pay",
@@ -43,7 +43,7 @@ function Home() {
 
   return (
     <div>
-      <h1 style={{ textAlign: "center" }}>HOME</h1>
+      <h1 style={{ textAlign: "center" }}>V7 Markets</h1>
       <input
         onChange={(e) => setPay(e.target.value)}
         type="number"
