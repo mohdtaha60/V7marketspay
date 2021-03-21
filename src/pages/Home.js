@@ -101,7 +101,7 @@ function Home() {
               </Form.Item>
               <Row justify="center">
                 <p style={{ color: "grey", fontSize: "12px" }}>
-                  By clicking on Pay Button, you agrees the V7Markets Terms &
+                  By clicking on Pay Now Button, you agrees the V7Markets Terms &
                   Conditions Policy and Refunds & Cancellation Policy.
                 </p>
               </Row>
