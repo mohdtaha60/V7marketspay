@@ -53,7 +53,7 @@ function Payment() {
   return (
     <div style={{ backgroundColor: "#001529" }}>
       <Row style={{ height: "100vh" }} justify="center" align="middle">
-        <Col md={8}>
+        <Col xs={21} md={8}>
           <Card style={{ borderRadius: "10px" }}>
             <Row justify="center">
               <img
